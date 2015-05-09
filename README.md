@@ -1,2 +1,5 @@
 # dsp_2015_spring
-#test string
+#
+#
+#In this Repo, we will implement the alorithm in different ways 
+#as many as we can
